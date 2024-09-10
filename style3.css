@@ -1,0 +1,28 @@
+body{
+    background-color: #e5fbed;
+}
+
+.tugas3{
+    color: #006C84;
+    text-align: center;
+    font-size: large;
+    text-decoration: underline;
+}
+
+.asisten{
+    width: 100px;
+    height: 300px;
+    width: 100%;
+    text-align: center;
+    clip-path: circle();
+}
+
+.paragraf1{
+    text-align: center;
+    font-size: large;
+    font-weight: bold;
+}
+
+.paragraf2{
+    text-align: center;
+}
